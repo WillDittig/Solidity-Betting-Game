@@ -165,8 +165,3 @@ LINK & ETH Faucet: https://faucets.chain.link/rinkeby
 
 ---
 
-## Contributors
-* Eamon Conheady - github: ZrowGz
-* Meghan Kennedy - github: megkennedy
-* Will Dittig - github: WillDittig
-* Athit Padmasuta - github: AthitXX
